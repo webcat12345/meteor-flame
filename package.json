@@ -9,6 +9,6 @@
     "meteor-node-stubs": "~0.2.4"
   },
   "devDependencies": {
-    "eslint": "^4.2.0"
+    "eslint": "^8.38.0"
   }
 }
